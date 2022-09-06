@@ -1,6 +1,3 @@
-DO NOT INSTALL THIS THEME YET! I'M STILL DEBUGGING IT.
-For whatever reason if the theme isn't properly formatted Enmity will literally shit itself.
-
 # Zelk for Enmity
 
 This is a theme for iOS Enmity Discord with dark/blue-greenish colors. I didn't make this theme, just adapted it for Enmity.
@@ -18,4 +15,8 @@ https://raw.githubusercontent.com/justanobody2107/zelk-for-enmity/main/theme/Zel
 ```
 
 ## Preview
-Coming soon!
+
+![Preview Channel](https://user-images.githubusercontent.com/42755661/188759277-6c0d2832-2d0d-4574-80bd-b435099fc4dd.PNG)
+![Preview Server View](https://user-images.githubusercontent.com/42755661/188759296-cfef2c26-fa34-4b91-8721-6c93983e8048.PNG)
+
+Yes, I do realize the channel name is illegible, that isn't my fault as Discord on PC/Mac doesn't have this issue as the channel text changes color to another value. No I will not change the normal text color as I tried to match Zelk as much as possible.
