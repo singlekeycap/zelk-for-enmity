@@ -10,7 +10,7 @@ This is a theme for iOS Enmity Discord with dark colors.
 4. Paste the following link in the text box
 
 ```
-https://raw.githubusercontent.com/justanobody2107/dark-theme-for-enmity/latest/theme/darkTheme.json
+https://raw.githubusercontent.com/justanobody2107/dark-theme-for-enmity/main/theme/darkTheme.json
 ```
 
 ## Preview
