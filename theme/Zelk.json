@@ -1,6 +1,6 @@
 {
   "name": "Zelk",
-  "version": "0.4",
+  "version": "1.0",
   "description": "Zelk for Enmity",
   "color": "#6D8692",
   "authors": [
@@ -15,7 +15,7 @@
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#BDE6FB",
+      "#171D20",
       "#22C5FD"
     ],
     "HEADER_PRIMARY": [
