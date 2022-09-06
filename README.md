@@ -1,6 +1,7 @@
-# Dark Theme
+# Zelk for Enmity
 
-This is a theme for iOS Enmity Discord with dark colors.
+This is a theme for iOS Enmity Discord with dark/blue-greenish colors. I didn't make this theme, just adapted it for Enmity.
+[Here](https://github.com/schnensch0/zelk) is the original
 
 ## How to install
 
@@ -10,7 +11,7 @@ This is a theme for iOS Enmity Discord with dark colors.
 4. Paste the following link in the text box
 
 ```
-https://raw.githubusercontent.com/justanobody2107/dark-theme-for-enmity/main/theme/darkTheme.json
+https://raw.githubusercontent.com/justanobody2107/zelk-for-enmity/main/theme/zelkTheme.json
 ```
 
 ## Preview
