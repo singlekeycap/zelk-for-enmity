@@ -5,7 +5,7 @@
     "description": "Zelk for Enmity",
     "authors": [ 
         {
-            "name": "JustANobody",
+            "name": "Nobody",
             "id": "312319419240022017"
         },
         {
@@ -14,44 +14,53 @@
         }
     ],
     "theme_color_map": {
-        "KEYBOARD": ["#1e2529", "#FFFFFF"],
-        "BACKGROUND_PRIMARY": ["#171d20", "#171d20"],
-        "BACKGROUND_SECONDARY": ["#1e2529", "#1e2529"],
-        "BACKGROUND_SECONDARY_ALT": ["#1e2529", "#1e2529"],
-        "BACKGROUND_TERTIARY": ["#1e2529", "#1e2529"],
-        "BACKGROUND_ACCENT": ["#1e2529", "#1e2529"],
-        "BACKGROUND_FLOATING": ["#273034", "#273034"],
-        "BACKGROUND_NESTED_FLOATING": ["#273034", "#273034"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#171d20", "#171d20"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#1e2529", "#1e2529"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#1e2529", "#1e2529"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#000000", "#FFFFFF"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#000000", "#FFFFFF"],
-        "CHANNELS_DEFAULT": ["#000000", "#FFFFFF"],
-        "HEADER_PRIMARY": ["#000000", "#FFFFFF"],
-        "HEADER_SECONDARY": ["#000000", "#FFFFFF"],
-        "INTERACTIVE_ACTIVE": ["#000000", "#FFFFFF"],
-        "INTERACTIVE_MUTED": ["#000000", "#FFFFFF"],
-        "INTERACTIVE_NORMAL": ["#000000", "#FFFFFF"],
-        "TEXT_LINK": ["#000000", "#FFFFFF"],
-        "TEXT_MUTED": ["#000000", "#FFFFFF"],
-        "TEXT_NORMAL": ["#000000", "#FFFFFF"]
-    },
-    "colours": {
-        "PRIMARY_DARK": "#FFFFFF",
+        "KEYBOARD": ["#6d8692","#8495a7"],
+        "HEADER_PRIMARY": ["#bde6fb","#123354"],
+        "HEADER_SECONDARY": ["#6d8692","#8495a7"],
+        "TEXT_NORMAL": ["#bde6fb","#123354"],
+        "TEXT_MUTED": ["#6d8692","#8495a7"],
+        "INTERACTIVE_NORMAL": ["#bde6fb","#123354"],
+        "INTERACTIVE_HOVER": ["#171d20","#ffffff"],
+        "INTERACTIVE_ACTIVE": ["#bde6fb","#123354"],
+        "INTERACTIVE_MUTED": ["#4d5f68","#8495a7"],
+        "BACKGROUND_PRIMARY": ["#171d20","#ffffff"],
+        "BACKGROUND_SECONDARY": ["#171d20","#ffffff"],
+        "BACKGROUND_SECONDARY_ALT": ["#171d20","#ffffff"],
+        "BACKGROUND_TERTIARY": ["#1e2529","#f5f7fa"],
+        "BACKGROUND_ACCENT": ["#1e2529","#f5f7fa"],
+        "BACKGROUND_FLOATING": ["#171d20","#ffffff"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#171d20","#ffffff"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#171d20","#ffffff"],
+        "BACKGROUND_NESTED_FLOATING": ["#171d20","#ffffff"],
+        "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.0)","rgba(255, 255, 255, 0.0)"],
+        "BACKGROUND_MODIFIER_HOVER": ["#262e33","rgba(255, 255, 255, 0.0)"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#495a63","#b7c2cc"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#bde6fb","#22c5fd"],
+        "BACKGROUND_MODIFIER_ACCENT": ["rgba(255, 255, 255, 0.0)","rgba(255, 255, 255, 0.0)"],
+        "SCROLLBAR_THIN_THUMB": ["rgba(255, 255, 255, 0.0)","rgba(255, 255, 255, 0.0)"],
+        "SCROLLBAR_THIN_TRACK": ["rgba(255, 255, 255, 0.0)","rgba(255, 255, 255, 0.0)"],
+        "SCROLLBAR_AUTO_THUMB": ["rgba(255, 255, 255, 0.0)","rgba(255, 255, 255, 0.0)"],
+        "SCROLLBAR_AUTO_TRACK": ["rgba(255, 255, 255, 0.0)","rgba(255, 255, 255, 0.0)"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#6d8692","#123354"],
+        "CHANNELS_DEFAULT": ["#6d8692","#123354"],
+        "TEXT_LINK": ["#edf8fe","#15a6f0"]
+      },
+      "colours": {
+        "PRIMARY_DARK": "#747474",
         "PRIMARY_DARK_100": "#FFFFFF",
-        "PRIMARY_DARK_300": "#FFFFFF",
-        "PRIMARY_DARK_360": "#FFFFFF",
-        "PRIMARY_DARK_400": "#FFFFFF",
-        "PRIMARY_DARK_500": "#FFFFFF",
-        "PRIMARY_DARK_600": "#FFFFFF",
-        "PRIMARY_DARK_630": "#FFFFFF",
-        "PRIMARY_DARK_700": "#FFFFFF",
-        "PRIMARY_DARK_800": "#FFFFFF",
-        "BRAND_NEW": "#FFFFFF",
-        "WHITE": "#FFFFFF"
-    },
-    "unsafe_colors": {
-        "CHAT_GREY": "#000000"
-    }
+        "PRIMARY_DARK_200": "#FFFFFF",
+        "PRIMARY_DARK_300": "#B6B6B6",
+        "PRIMARY_DARK_360": "#C8C8C8",
+        "PRIMARY_DARK_400": "#9262ff",
+        "PRIMARY_DARK_500": "#2a1858",
+        "PRIMARY_DARK_600": "#1E0D4B",
+        "PRIMARY_DARK_630": "#170544",
+        "PRIMARY_DARK_700": "#1A064D",
+        "PRIMARY_DARK_800": "#1f1142",
+        "PRIMARY_DARK_900": "#090909",
+        "BRAND_NEW": "#5e28d7"
+      },
+      "unsafe_colors": {
+        "CHAT_GREY": "#1E0D4B"
+      }
 }
