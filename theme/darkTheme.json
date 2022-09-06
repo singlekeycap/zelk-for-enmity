@@ -1,21 +1,16 @@
 {
-    "name": "example",
-    "author": "L+RATIO#1000",
-    "version": "4.2.0",
-    "description": "Your bunk ass theme... Now with BLUR!",
+    "name": "Dark Theme",
+    "author": "JustANobody#2107",
+    "version": "0.0.1",
+    "description": "Dark theme for Enmity",
     "authors": [ 
         {
-            "name": "NEO",
-            "id": "424806150702366723"
+            "name": "JustANobody",
+            "id": "312319419240022017"
         }
     ],
-    "background": {
-        "blur": "1",
-        "url": "https://i.imgur.com/sEkjODE.jpeg",
-        "alpha": "0.69"
-    },
     "theme_color_map": {
-        "KEYBOARD": ["#000000", "#FFFFFF"],
+        "KEYBOARD": ["#050505", "#FFFFFF"],
         "BACKGROUND_PRIMARY": ["#000000", "#FFFFFF"],
         "BACKGROUND_SECONDARY": ["#000000", "#FFFFFF"],
         "BACKGROUND_SECONDARY_ALT": ["#000000", "#FFFFFF"],
