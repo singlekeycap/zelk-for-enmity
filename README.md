@@ -19,4 +19,4 @@ https://raw.githubusercontent.com/justanobody2107/zelk-for-enmity/main/theme/Zel
 ![Preview Channel](https://user-images.githubusercontent.com/42755661/188759277-6c0d2832-2d0d-4574-80bd-b435099fc4dd.PNG)
 ![Preview Server View](https://user-images.githubusercontent.com/42755661/188759296-cfef2c26-fa34-4b91-8721-6c93983e8048.PNG)
 
-Yes, I do realize the channel name is illegible, that isn't my fault as Discord on PC/Mac doesn't have this issue as the channel text changes color to another value. No I will not change the normal text color as I tried to match Zelk as much as possible.
+Channel names are fixed, disregard the second screenshot
