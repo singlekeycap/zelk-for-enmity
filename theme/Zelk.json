@@ -19,7 +19,7 @@
       "#22C5FD"
     ],
     "HEADER_PRIMARY": [
-      "#BDE6FB",
+      "#6D8692",
       "#123354"
     ],
     "HEADER_SECONDARY": [
@@ -103,8 +103,8 @@
       "#22C5FD"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#6D8692",
-      "#8495A7"
+      "rgba(255, 255, 255, 0.001)",
+      "rgba(255, 255, 255, 0.001)"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "rgba(255, 255, 255, 0.001)",
