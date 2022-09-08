@@ -43,7 +43,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#BDE6FB",
+      "#6D8692",
       "#123354"
     ],
     "INTERACTIVE_MUTED": [
@@ -99,7 +99,7 @@
       "#B7C2CC"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#6D8692",
+      "#BDE6FB",
       "#22C5FD"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
