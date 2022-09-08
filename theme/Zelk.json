@@ -27,7 +27,7 @@
       "#8495A7"
     ],
     "TEXT_NORMAL": [
-      "#6D8692",
+      "#BDE6FB",
       "#123354"
     ],
     "TEXT_MUTED": [
@@ -103,8 +103,8 @@
       "#22C5FD"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "rgba(255, 255, 255, 0.001)",
-      "rgba(255, 255, 255, 0.001)"
+      "#6D8692",
+      "#8495A7"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "rgba(255, 255, 255, 0.001)",
