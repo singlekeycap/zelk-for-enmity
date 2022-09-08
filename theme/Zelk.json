@@ -27,7 +27,7 @@
       "#8495A7"
     ],
     "TEXT_NORMAL": [
-      "#BDE6FB",
+      "#6D8692",
       "#123354"
     ],
     "TEXT_MUTED": [
@@ -43,7 +43,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#6D8692",
+      "#BDE6FB",
       "#123354"
     ],
     "INTERACTIVE_MUTED": [
